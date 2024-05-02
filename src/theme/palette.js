@@ -1,0 +1,33 @@
+export default{
+  primary:{
+    main:'#0b132b',
+    // main:'#233f80',
+    contrastText:'#fff'
+  },
+  secondary:{
+    main:'#233f80',
+    contrastText:'#fff'
+  },
+  button:{
+    main:'#121f40'
+  },
+  input:{
+    main:'#233f80',
+  },
+  inputHover:{
+    main:'#162750'
+  },
+  hover:{
+    main:'#0d1830',
+  },
+  disabled:{
+    main:'#3a506b',
+    contrastText:"#fff"
+  },
+  textButton:{
+    main:'#e1e5f5'
+  },
+  error:{
+    main:'#ff0000',
+  }
+}

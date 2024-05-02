@@ -1,0 +1,25 @@
+export const typography=()=>{
+  return{
+    typography:{
+      fontFamily:'',
+      h1:{
+        fontSize:'64px',
+        fontWeight:'600',
+        lineHeight:'80px'
+      },
+      h2:{
+        fontSize:'50px',
+        fontWeight:'600',
+        lineHeight:'64px',
+      },
+      subtitle:{
+        fontSize:'16px',
+        fontWeight:'600',
+        lineHeight:'24px'
+      },
+      body:{
+        fontSize:'12px'
+      }
+    }
+  }
+}
